@@ -6,4 +6,6 @@ void function()
   cout << "function" << endl;
   cout << "function add" << endl;
   cout << "function add" << endl;
+  cout << "function add" << endl;
+  cout << "function add" << endl;
 }
