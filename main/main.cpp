@@ -18,6 +18,11 @@ int main()
     cout << "main after" << endl;
     cout << "main after" << endl;
     cout << "main after" << endl;
+    cout << "main after" << endl;
+    cout << "main after" << endl;
+    cout << "main after" << endl;
+    cout << "main after" << endl;
+    cout << "main after" << endl;
 
     return 0;
 }
