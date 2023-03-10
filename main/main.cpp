@@ -13,16 +13,6 @@ int main()
     function();
     // 라이브러리의 함수 호출
     libtest();
-    cout << "hello world Finish!!!" << endl;
-
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
-    cout << "main after" << endl;
 
     return 0;
 }
