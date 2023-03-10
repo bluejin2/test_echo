@@ -4,34 +4,4 @@
 void function()
 {
   cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
-  cout << "function" << endl;
 }
